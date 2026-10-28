@@ -1,0 +1,5 @@
+/clangd/bin/clangd.exe
+/clangd_log.log
+/jit_runtime_x64.exe
+/jited_x64.exe
+/zips
