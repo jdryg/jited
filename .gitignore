@@ -3,3 +3,4 @@
 /jit_runtime_x64.exe
 /jited_x64.exe
 /zips
+/examples/doomgeneric/compile_commands.json
