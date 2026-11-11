@@ -12,7 +12,7 @@ Currently works only on Windows and supports only Win64 ABI. Last time I checked
 
 [![Debugger](https://raw.githubusercontent.com/jdryg/jited/main/images/debugger.png)](https://raw.githubusercontent.com/jdryg/jited/main/images/debugger.png)
 
-[![Disassembler](https://raw.githubusercontent.com/jdryg/jited/main/images/disassembler.png)](https://raw.githubusercontent.com/jdryg/jited/main/images/disassembler.png)
+[![Disassembler](https://raw.githubusercontent.com/jdryg/jited/main/images/disassembly.png)](https://raw.githubusercontent.com/jdryg/jited/main/images/disassembly.png)
 
 [![Find in Files](https://raw.githubusercontent.com/jdryg/jited/main/images/find_in_files.png)](https://raw.githubusercontent.com/jdryg/jited/main/images/find_in_files.png)
 
