@@ -1,0 +1,23 @@
+{
+	"sources": [
+		"src\\chapter_01.c",
+		"src\\vkc\\src\\vk_init.c",
+		"src\\vkc\\src\\vk_utils.c",
+		"src\\vkc\\src\\file_utils.c",
+	],
+	"include_dirs": [
+		"$(VULKAN_SDK)\\Include",
+		"src\\vkc\\include"
+	],
+	"libs": [
+		"libs\\vulkan-1.def"
+	],
+	"preprocessor": [
+	],
+	"runtime": {
+		"memory": 0,
+		"console_mode": "open_wait"
+	},
+	"entry_point": "main",
+	"working_dir": "bin"
+}

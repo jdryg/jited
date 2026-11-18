@@ -10,7 +10,7 @@
 		"src\\d_net.c",
 		"src\\doomdef.c",
 		"src\\doomgeneric.c",
-		"src\\doomgeneric_jitsheet.c",
+		"src\\doomgeneric_jited.c",
 		"src\\doomstat.c",
 		"src\\dstrings.c",
 		"src\\dummy.c",
@@ -92,5 +92,8 @@
 	"preprocessor": [
 		{ "name": "_MSC_VER", "value": "10000" }
 	],
+	"runtime": {
+		"console_mode": "open"
+	},
 	"entry_point": "main"
 }
